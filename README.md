@@ -48,6 +48,6 @@ I created a tree map to show where the renewable energy was coming from in each 
 
 ## Conclusion
 
-
+After analyzing the net production, percentage of renewable energy, and power source breakdown, Intel should make their next data center in the North Western region. This is because it has the second highest net production, the highest renewable energy percentage, and it has very reliable renewable energy sources.
 
 
