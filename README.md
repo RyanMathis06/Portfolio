@@ -8,6 +8,7 @@ Analyzed regions using energy source, renewable energy, and net production data 
 
 ## Table of Contents
 
+- [The Prompt](#-the-problem)
 
 
 ---
