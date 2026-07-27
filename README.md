@@ -37,7 +37,6 @@ I created a bar chart showing the percentage of renewable energy in each region.
 I created a tree map to show where the renewable energy was coming from in each region. This is important because some renewable resource are not as reliable as others. For example, wind not as reliable as hydropower because wind can go away or become weaker, while hydropower almost never stops. I centered in on two regions as they both were positive in net production and had a high percentage of renewable energy. 
 
 ## North Western Region
-
 ![Executive Dashboard](Images/Intel%20Energy%20Project%20Utility%20Power%20Source%20Breakdown%20tree%20map.png)
 
 ## Central Region
