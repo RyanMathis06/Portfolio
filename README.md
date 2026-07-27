@@ -22,4 +22,4 @@ Intel, the semiconductor manufacturing powerhouse, is planning on building a new
 
 I found the net production of energy per region and found that only 5 regions have positive net production of energy, Mid Atlantic, North West, South West, Central, and South East with the Mid Atlantic having the best net production of energy. 
 
-! [Executive Dashboard ] (Images/Intel%20Energy%20Project%20Net%20Production%20bar%20chart%20.png )
+! [Executive Dashboard ](Images/Intel%20Energy%20Project%20Net%20Production%20bar%20chart%20.png)
