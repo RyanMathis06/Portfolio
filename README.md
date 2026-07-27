@@ -23,3 +23,12 @@ Intel, the semiconductor manufacturing powerhouse, is planning on building a new
 I found the net production of energy per region and found that only 5 regions have positive net production of energy, Mid Atlantic, North West, South West, Central, and South East with the Mid Atlantic having the best net production of energy. Therefore, I know one of these 5 regions will be the best region to build the new data center. 
 
 ![Executive Dashboard](Images/Intel%20Energy%20Project%20Net%20Production%20bar%20chart.png)
+
+---
+
+## Renewable Energy
+
+I created a bar chart showing the percentage of renewable energy in each region. This is important because the more renewable energy, the more sustainable and data center will be. The North west, Central, and California are the regions with the highest percentage of renewable resource energy generation. 
+
+![Executive Dashboard](Images/Intel%20Energy%20Project%20Renewable%20Energy%20bar%20chart.png)
+
