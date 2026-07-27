@@ -14,7 +14,7 @@ Analyzed regions using energy source, renewable energy, and net production data 
 
 ## The Prompt
 
-Intel, the semiconductor manufacturing powerhouse, is planning on building a new data center. Energy availability and usage are some of the key factors in deciding on a location of the data center. For example, which regions produce a surplus of energy, and are therefore more likely to provide energy at cheaper prices? Which regions rely more on renewable energy sources?
+Intel, the semiconductor manufacturing powerhouse, is planning on building a new data center. Energy availability and usage are some of the key factors in deciding on a location of the data center. For example, which regions produce a surplus of energy? Which regions rely more on renewable energy sources?
 
 ---
 
