@@ -30,7 +30,7 @@ I found the net production of energy per region and found that only 5 regions ha
 
 I created a bar chart showing the percentage of renewable energy in each region. This is important because the more renewable energy, the more sustainable and data center will be. The North west, Central, and California are the regions with the highest percentage of renewable resource energy generation. 
 
-![Executive Dashboard](Images/Intel%20Energy%20Project%20Renewable%20Energy%20bar%20chart.png)
+![Executive Dashboard](Images/Intel_Energy_Project_Renewable_Energy.png)
 
 ---
 
