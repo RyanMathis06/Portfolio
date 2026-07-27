@@ -32,12 +32,22 @@ I created a bar chart showing the percentage of renewable energy in each region.
 
 ![Executive Dashboard](Images/Intel%20Energy%20Project%20Renewable%20Energy%20bar%20chart.png)
 
+---
+
 ## Utility Power Source Breakdown
 
-I created a tree map to show where the renewable energy was coming from in each region. This is important because some renewable resource are not as reliable as others. For example, wind not as reliable as hydropower because wind can go away or become weaker, while hydropower almost never stops. I centered in on two regions as they both were positive in net production and had a high percentage of renewable energy. 
+I created a tree map to show where the renewable energy was coming from in each region. This is important because some renewable resource are not as reliable as others. For example, wind not as reliable as hydropower because wind can go away or become weaker, while hydropower almost never stops. I centered in on two regions as they both were positive in net production and had a high percentage of renewable energy. After reviewing these two diagrams I found that the North Western region was more reliable than the central region because it has a more reliable renewable resource, hydropower and pumped storage. 
 
 ## North Western Region
 ![Executive Dashboard](Images/Intel_Energy_Project_Utility_Power_Source_Breakdwon_NW.png)
 
 ## Central Region
 ![Executive Dashboard](Images/Intel_Energy_Project_Utility_Power_Source_Breakdwon_CE.png)
+
+---
+
+## Conclusion
+
+
+
+
