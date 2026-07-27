@@ -10,6 +10,8 @@ Analyzed regions using energy source, renewable energy, and net production data 
 
 - [The Prompt](#The-Prompt)
 - [Net Production](#Net-Production)
+- [Renewable Energy](#Renewable-Energy)
+- [Utility Power Source Breakdown](#Utility-Power-Source-Breakdown)
 
 ---
 
