@@ -52,6 +52,6 @@ I created a tree map to show where the renewable energy was coming from in each 
 
 ## Conclusion
 
-After analyzing the net production, percentage of renewable energy, and power source breakdown, Intel should make their next data center in the North Western region. This is because it has the second highest net production, the highest renewable energy percentage, and it has very reliable renewable energy sources. After this project I learned how to make lots of visualizations and how to successfully navigate Tableau. It also made me realize how important it is to make visuals as it is way easier to make a decision with them rather than a big spreadsheet of numbers. I hope to build on this experience and analyze much more data and make many more visualizations in the future.
+After analyzing the net production, percentage of renewable energy, and power source breakdown, Intel should make their next data center in the North Western region. This is because it has the second highest net production, the highest renewable energy percentage, and it has very reliable renewable energy sources. After this project I learned how to make lots of visualizations and how to successfully navigate Tableau. It also made me realize how important it is to make visuals as it is way easier to make a decision with them rather than a big spreadsheet of numbers. I hope to build on this experience and analyze more data and make more visualizations in the future.
 
 
