@@ -40,3 +40,4 @@ I created a tree map to show where the renewable energy was coming from in each 
 ![Executive Dashboard](Images/Intel_Energy_Project_Utility_Power_Source_Breakdwon_NW.png)
 
 ## Central Region
+![Executive Dashboard](Images/Intel_Energy_Project_Utility_Power_Source_Breakdwon_CE.png)
