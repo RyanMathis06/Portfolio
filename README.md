@@ -1,4 +1,4 @@
-# Data Science & Analytics Portfolio
+# Data Science & Analytics Portfolio by Ryan Mathis
 
 Welcome to my portfolio! Here you can find a collection of my data analytics and visualization projects.
 
