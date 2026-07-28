@@ -2,6 +2,9 @@
 
 Welcome to my portfolio! Here you can find a collection of my data analytics and visualization projects.
 
+## Table of Contents
+- [Tableau Projects](Tableau-Projects)
+
 ## Tableau Projects
 
 ### [Intel Energy Data Center Project](./Intel-Energy-Project/)
