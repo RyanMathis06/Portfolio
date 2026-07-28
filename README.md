@@ -1,4 +1,6 @@
-# Data Science & Analytics Portfolio by Ryan Mathis
+# Data Science & Analytics Portfolio
+
+Ryan Mathis | Data Science Student at the University of South Carolina
 
 Welcome to my portfolio! Here you can find a collection of my data analytics and visualization projects.
 
