@@ -62,14 +62,28 @@ This PCA score plot shows that most of the companies are grouped around the (0,0
 
 ## Clustering
 
+I am using clustering on this data set to find out what different types of companies there are. I am using the scores data set from PCA for my clustering since it gets rid of redundancies and reduces the number of variables from 6 to 3.
 
+![Executive Dashboard](../Images/Cluster%20Graph.png)
+
+Using the elbow method, I found that k=4 because that is where the graph starts to flatten out.
+
+![Executive Dashboard](../Images/Cluster%20Graph%202.png)
+
+To perform cluster analysis, I created a scatterplot to show the 4 diverse types of companies. The first very unusual thing on this scatterplot is that the third cluster (blue) is not being shown at all. This cluster consists of the two major outliers of this data set that are enormous in size but low in maturity. Those 2 outliers consist of one whole cluster while most of the other clusters have around 2000 companies. The first cluster (red) is a group of companies with high maturity and size, the second cluster (green) is a group of companies with low maturity and size, and the fourth cluster group (purple) is a group of companies with average maturity and size. 
 
 ---
 
 ## Linear Discriminant Analysis
 
+I decided to use Linear Discriminant Analysis (LDA) because I wanted to test how distinct those groups of companies were and what made them different from the other groups.
 
+![Executive Dashboard](../Images/LDA%20plot.png)
+
+I created this scatterplot matrix with an accuracy of 92.22% showing LD1, LD2, and LD3. LD1 shows all the points together except for the few points labeled three, cluster three. This shows that LD1 is focused on separating the outliers, likely having to do with size because size is where those outliers are huge. LD2 and LD3 are similar as they practically show the exact same plots in different panes. These identical plots show a bunch of clusters 1, 2, and 4. This means that it is hard to distinguish between the three clusters. As a result, LD1 is used to show outliers while LD2 and LD3 struggle to separate the remaining clusters. Also, the models’ 92.22% accuracy is so high because of how easy it is to find outliers in LD1. 
 
 ---
 
 ## Conclusion
+
+After analyzing the companies’ data set, I have found many groups, outlier, and variables. During this analysis I used PCA to figure out that we can reduce the number of variables from 6 to 3. PCA also showed that companies think differently and that some focus on building size by hiring a lot of employees, while others focus on increasing revenue over time. It also showed our first glimpse of the two enormous outliers in this data set. Clustering revealed that there were four distinct types of companies based on size and maturity. Also showed how the two enormous outliers made up a whole cluster in our data set. Finally, performed LDA finding the accuracy of the model, and how distinguishable the outliers were. It also revealed how challenging it was to separate the other three clusters besides the outliers. Overall, I learned that all companies have their own ways of doing things, whether that leads them to the green, red, or even blue cluster.
