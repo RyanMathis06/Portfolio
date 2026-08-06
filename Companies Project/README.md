@@ -38,11 +38,25 @@ The first thing I did after cleaning my data was to figure out the sample mean v
 
 ![Executive Dashboard](../Images/Basic%20Analysis%20Graph.png)
 
+This plot shows that the data I will be analyzing is not normal and is skewed to the right. I know this because if it was normal, it would follow the line, but at around the 20th chi-square quantile, the data points shoot vertically away from the line. It is skewed to the right because most of the points are clumped up in the bottom left, and only a few points are far in the upper right-hand corner. I can also tell that the data has a heavy tail since the points in the upper right corner reach 4000 ordered distances. As a result, they are enormous and far away from normal. 
+
 ---
 
 ## Principal Component Analysis
 
+I will be performing Principal Component Analysis to find the components that capture the most variance from those extreme outliers since the data is heavily skewed. First, I created a Scree plot to decide how many principal components I should use. 
 
+![Executive Dashboard](../Images/PCA%20PIC.png)
+
+From this, I can see that the elbow is at Component 3 because it is where the graph flattens out.
+
+![Executive Dashboard](../Images/Loadings%20Pic.png)
+
+These Loadings show me that comp 1 must be the size of the company (workers and previous workers), comp 2 must be the maturity of the company (revenue and years on list), and comp 3 must be the growth of the company. This data set has now gone from 6 to 3 variables based on size, maturity, and growth of a company. 
+
+![Executive Dashboard](../Images/PCA%20Scores%20PIC.png)
+
+This PCA score plot shows that most of the companies are grouped around the (0,0) point, the average. However, there are two outliers in the bottom right of the plot with an enormous amount of size, but not a lot of time on the companies list. Around point (0,0) I realized that the points either go vertically or horizontally. This is because the companies are taking two different paths, one focusing on hiring and gaining employees, while the other focuses on increasing their revenue over time.
 
 ---
 
