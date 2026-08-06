@@ -6,7 +6,7 @@ Analyzed a data set with 5012 companies and 14 variables in R. Used basic statis
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Data Set](Data-Set)
+- [Data Set](#Data-Set)
 - [Basic Analysis](#Basic-Analysis)
 - [Principal Component Analysis](#Principal-Component-Analysis)
 - [Clustering](#Clustering)
