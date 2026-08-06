@@ -1,1 +1,3 @@
 # __Companies Project - R__
+
+Analyzed a data set with 5012 companies and 14 variables in R. Used basic statistical analysis to figure out if the data was normal and to find outliers. Used principal component analysis to reduce variables and find patterns. Used clusters to create different groups and find out what the companies in every group have in common. Finally, used linear discriminant analysis to find out how distinct each group was from one another.
