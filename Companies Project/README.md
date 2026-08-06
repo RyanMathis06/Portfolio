@@ -50,7 +50,7 @@ I will be performing Principal Component Analysis to find the components that ca
 
 From this, I can see that the elbow is at Component 3 because it is where the graph flattens out.
 
-![Executive Dashboard](../Images/Loadings%20Pic.png)
+![Executive Dashboard](../Images/Loadings%20PIC.png)
 
 These Loadings show me that comp 1 must be the size of the company (workers and previous workers), comp 2 must be the maturity of the company (revenue and years on list), and comp 3 must be the growth of the company. This data set has now gone from 6 to 3 variables based on size, maturity, and growth of a company. 
 
