@@ -17,6 +17,8 @@ Table of Contents
 
 ![Executive Dashboard](../Images/Grammys%20Daily%20Visitors.png)
 
+After making the daily visitors line chart, I realized that around once or twice a year the daily visitors shoots up creating a spike look to the graph. The massive spikes occur when the Grammy's host their awards show night while the smaller spikes occur when the Grammy's host lesser known events. The average website visits on a regular day is around 32,000 visitors while the average visitors on a Grammy Award day is around 1.4 million visitors.
+
 ---
 
 # Key Metrics
