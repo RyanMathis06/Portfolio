@@ -15,7 +15,7 @@ Table of Contents
 
 # Daily Visitors
 
-
+![Executive Dashboard](../Images/Grammys%20Daily%20Visitors.png)
 
 ---
 
