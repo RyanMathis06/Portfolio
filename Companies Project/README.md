@@ -36,7 +36,7 @@ Before I started, I had to analyze and clean up the data. I used a data set call
 
 The first thing I did after cleaning my data was to figure out the sample mean vector of each variable. This helped me see how big or small the numbers were compared to one another. I then found the sample covariance matrix and the sample correlation matrix. I found the sample covariance matrix to see if it would be viable or not to use non-standardized data. I decided to use standardized data by figuring out the correlation matrix. 
 
-![Executive Dashboard](../Images/Basic_Analysis_Graph.png)
+![Executive Dashboard](../Images/Basic%20Analysis%20Graph.png)
 
 ---
 
