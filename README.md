@@ -24,7 +24,7 @@ Analyzed regional energy availability, sustainability, and net production across
 
 ## R Projects
 
-### [Companies Project](./Companies-Project/)
+### [Companies Project](./Companies%20Project/)
 
 
 
