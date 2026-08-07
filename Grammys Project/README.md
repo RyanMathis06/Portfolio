@@ -56,4 +56,4 @@ After analyzing the combined website's data and the split up websites' data, Gra
 
 # Data
 
-### [Excel Sheet](./Grammy%20Project%20Excel.xlsx)
+### [Excel Sheet](../docs/Grammy%20Project%20Excel.xlsx)
