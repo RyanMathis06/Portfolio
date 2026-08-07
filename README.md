@@ -25,7 +25,7 @@ Analyzed regional energy availability, sustainability, and net production across
 
 ### [Grammy Project](./Grammys%20Project/)
 
-The goal of this project was to figure out whether Grammy should keep their websites separate. In order to figure this out I analyzed two data sets, one with the Grammy's websites combined and one with them separate. I found the daily visitors, pages per session, bounce rate (when visitors leave the website without interacting), average time on site, and percentage of mobile viewers. 
+The goal of this project was to figure out whether Grammy should keep their websites separate. In order to figure this out, I analyzed two data sets, one with the Grammy's websites combined and one with them separate. I found the daily visitors, pages per session, bounce rate (when visitors leave the website without interacting), average time on site, and percentage of mobile viewers. 
 
 ---
 
