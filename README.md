@@ -19,7 +19,7 @@ Analyzed regional energy availability, sustainability, and net production across
 
 ## Excel Projects
 
-
+### [Grammy Project](./Grammys%20Project/)
 
 
 
