@@ -39,7 +39,7 @@ Should Grammy keep their websites separate? In order to figure this out, I analy
 
 Analyzed 5012 companies in R and performed basic analysis, principal component analysis, clustering, and linear discriminant analysis in order to identify outliers and figure out why there are outliers, separate companies into groups, find patterns, and to figure out how companies grow. 
 
-Skills: Cleaning Data, Sample Covariance Matrix, Sample Correlation Matrix, Chi-squared Plots, Principal Component Analysis (PCA), Scree Plots, Loadings, Clustering, Scatterplots, and Linear Discriminant Analysis (LDA)
+#### Skills: Cleaning Data, Sample Covariance Matrix, Sample Correlation Matrix, Chi-squared Plots, Principal Component Analysis (PCA), Scree Plots, Loadings, Clustering, Scatterplots, and Linear Discriminant Analysis (LDA)
 
 ---
 
