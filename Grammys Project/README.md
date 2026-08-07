@@ -10,6 +10,7 @@ Table of Contents
 - [Key Metrics](#Key-Metrics)
 - [Devices](#Devices)
 - [Conclusion](#Conclusion)
+- [Data](#Data)
 
 ---
 
@@ -45,9 +46,14 @@ The average time on site is important because it measures how engaging your webs
 
 # Devices
 
-
+Found the percentage of visitors on mobile devices because a higher percentage might affect the numbers from the Key Metrics section. This is because mobile users generally have shorter attention spans than desktop users. The percentage of mobile visitors on the website was 73.7%. This informs me that the average time on site is decreased because of mobile users and the bounce rate is increased on all websites because of mobile users. 
 
 ---
 
 # Conclusion
 
+After analyzing the combined website's data and the split up websites' data, Grammy's should not recombine their Recording Academy website and their Grammy website. After splitting the websites, pages per session increased by 20.97% on the Grammy website and increased by 49.46% on the Recording Academy Website. The bounce rate for both individual websites decreased, meaning less people left their website without interacting. The Recording Academy' website after the split flourished with an increase of 24.94% average time spent on site, while the Grammy's website decreased in average time spent on website by 19.31% after the split. Although there is less time spent on the Grammy's website alone, the benefit of the Recording Academy's website proves why staying separate is the right move. 
+
+# Data
+
+### [Excel Sheet](./Grammy%20Project%20Excel.xlsx)
