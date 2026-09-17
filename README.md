@@ -45,7 +45,11 @@ Analyzed 5012 companies in R and performed basic analysis, principal component a
 
 ## Python Projects
 
-###[Airbnb Data Cleaning Project]
+### [Airbnb Data Cleaning Project]
+
+Cleaned an Airbnb data set with 102,599 rows and 26 columns. Once finished, the data set had 99,342 rows and 18 columns. 
+
+### Skills: Pandas Library, Jupyter, Deleting Redundant Columns, Renaming Columns, Dropping Duplicates, Cleaning Individual Columns, and Removing NaN Values from the Data Set
 
 
 ---
