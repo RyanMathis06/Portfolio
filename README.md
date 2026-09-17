@@ -45,6 +45,9 @@ Analyzed 5012 companies in R and performed basic analysis, principal component a
 
 ## Python Projects
 
+###[Airbnb Data Cleaning Project]
+
+
 ---
 
 ## SQL Projects
