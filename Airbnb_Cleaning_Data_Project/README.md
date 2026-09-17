@@ -11,6 +11,7 @@ Cleaned an Airbnb data set containing 102,599 rows and 26 columns using Pandas. 
 - [Duplicates](#Duplicates)
 - [Nulls](Nulls)
 - [Cleaning Data](Cleaning-Data)
+- [Conclusion](Conclusion)
 
 ---
 
@@ -39,9 +40,24 @@ Cleaned an Airbnb data set containing 102,599 rows and 26 columns using Pandas. 
 ---
 
 ## Nulls
+d
+d
+d
+de
+d
+d
+d
+d
+d
+d
+d
+d
+---
+
+## Cleaning Data
 
 
 
 ---
 
-## Cleaning Data
+## Conclusion
