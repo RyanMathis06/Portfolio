@@ -17,8 +17,8 @@ Cleaned an Airbnb data set containing 102,599 rows and 26 columns using Pandas. 
 
 ## Introduction
 
-Found this Airbnb data off of Kaggle, wanted to test my ability to clean data properly. 
-
+Found this Airbnb data off of Kaggle, wanted to test my ability to clean data properly using pandas.
+![Executive Dashboard](../Images/Airbnb_Clean1.png)
 
 ---
 
