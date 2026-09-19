@@ -18,13 +18,14 @@ Cleaned an Airbnb data set containing 102,599 rows and 26 columns using Pandas. 
 ## Introduction
 
 ![Executive Dashboard](../Images/Airbnb_clean_OG.png)
-Found this Airbnb data off of Kaggle, wanted to test my ability to clean data properly using pandas.
+Found this Airbnb data off of Kaggle, wanted to test my ability to clean data properly using pandas. First I imported pandas as pd and then imported my data set as data. After that I did data.head() to ensure it was the correct data and so that I could see exactly what I needed to change. 
+![Executive Dashboard](../Images/Airbnb_clean1.png)
 
 ---
 
 ## Dropping Columns
 
-
+![Executive Dashboard](../Images/Airbnb_clean1.png)
 
 ---
 
