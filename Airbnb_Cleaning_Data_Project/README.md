@@ -67,27 +67,27 @@ Finally I confirmed that all the Null values had been dropped.
 
 First thing I wanted to do was make the data in column 'HOST_IDENTITY_VERIFIED' uppercase. 
 ![Executive Dashboard](../Images/Airbnb_clean13.png)
-h
+Then I made the data in column 'CANCELLATION_POLICY' uppercase as well. 
 ![Executive Dashboard](../Images/Airbnb_clean14.png)
-h
+For True and False columns like 'INSTANT_BOOKABLE', I wanted to make it say 1 if True and 0 if anything else. I did this because most ML models like linear regression, require numerical inputs. 
 ![Executive Dashboard](../Images/Airbnb_clean15.png)
-h
+Previously, the index would go from 1 to 4 because I got rid of some rows due to Null values. As a result, I reset the index so that it counts correctly. 
 ![Executive Dashboard](../Images/Airbnb_clean16.png)
-h
+The column 'PRICE' has $ signs, so I got rid of them so that it could eventually be an integer instead of a string. 
 ![Executive Dashboard](../Images/Airbnb_clean17.png)
-h
+Here I got rid of the commas and the spaces in the column 'PRICE'. 
 ![Executive Dashboard](../Images/Airbnb_clean18.png)
-h
+Finally, the column 'PRICE', is just a number, however it is still a string. 
 ![Executive Dashboard](../Images/Airbnb_clean19.png)
-h
+Here I converted the column 'PRICE' from a string to an integer, and also realized I have to do the same thing with the column 'SERVICE FEE'.
 ![Executive Dashboard](../Images/Airbnb_clean20.png)
-h
+Got rid of the $ sign, the space, and figured out that the column 'SERVICE FEE' is a pandas.Series. As a result, I switched it to an integer. 
 ![Executive Dashboard](../Images/Airbnb_clean21.png)
-h
-![Executive Dashboard](../Images/Airbnb_clean22.png)
-h
-![Executive Dashboard](../Images/Airbnb_clean23.png)
 
 ---
 
 ## Conclusion
+
+![Executive Dashboard](../Images/Airbnb_clean22.png)
+![Executive Dashboard](../Images/Airbnb_clean23.png)
+
