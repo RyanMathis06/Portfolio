@@ -53,16 +53,19 @@ In order to figure out how many duplicates there were in this data set, I did df
 
 ## Nulls
 
+In order to remove the Null values, first I wanted to see how many Null values each column had. Then I decided to drop the column 'LAST REVIEW' as it had 15,000 Null values which is way too many.
 ![Executive Dashboard](../Images/Airbnb_clean10.png)
+Here I confirmed that the column 'LAST REVIEW' had been dropped and then I dropped all Null values from my data set.
 ![Executive Dashboard](../Images/Airbnb_clean11.png)
+Finally I confirmed that all the Null values had been dropped. 
 ![Executive Dashboard](../Images/Airbnb_clean12.png)
-![Executive Dashboard](../Images/Airbnb_clean13.png)
+
 
 ---
 
 ## Cleaning Data
 
-
+![Executive Dashboard](../Images/Airbnb_clean13.png)
 
 ---
 
