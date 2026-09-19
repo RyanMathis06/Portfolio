@@ -65,20 +65,28 @@ Finally I confirmed that all the Null values had been dropped.
 
 ## Cleaning Data
 
+First thing I wanted to do was make the data in column 'HOST_IDENTITY_VERIFIED' uppercase. 
 ![Executive Dashboard](../Images/Airbnb_clean13.png)
+h
 ![Executive Dashboard](../Images/Airbnb_clean14.png)
+h
 ![Executive Dashboard](../Images/Airbnb_clean15.png)
+h
 ![Executive Dashboard](../Images/Airbnb_clean16.png)
+h
 ![Executive Dashboard](../Images/Airbnb_clean17.png)
+h
 ![Executive Dashboard](../Images/Airbnb_clean18.png)
+h
 ![Executive Dashboard](../Images/Airbnb_clean19.png)
+h
 ![Executive Dashboard](../Images/Airbnb_clean20.png)
+h
 ![Executive Dashboard](../Images/Airbnb_clean21.png)
+h
 ![Executive Dashboard](../Images/Airbnb_clean22.png)
+h
 ![Executive Dashboard](../Images/Airbnb_clean23.png)
-
-
-
 
 ---
 
