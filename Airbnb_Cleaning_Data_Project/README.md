@@ -39,22 +39,24 @@ Then I made df my data set without the dropped columns.
 ## Renaming Columns
 First I looked at all the column names and decided that I wanted to make them all uppercase. 
 ![Executive Dashboard](../Images/Airbnb_clean7.png)
-
+Then I checked and made sure that df includes all uppercase columns now. 
 ![Executive Dashboard](../Images/Airbnb_clean8.png)
-
-![Executive Dashboard](../Images/Airbnb_clean9.png)
 
 ---
 
 ## Duplicates
 
-
+In order to figure out how many duplicates there were in this data set, I did df.duplicates().sum() and found that there are 541 duplicates. Then I did df.drop_duplicates(inplace = True), so that it drops all the duplicates from the data set df. Finally, I checked to see if my data set had anymore duplicates and it did not. 
+![Executive Dashboard](../Images/Airbnb_clean9.png)
 
 ---
 
 ## Nulls
 
-
+![Executive Dashboard](../Images/Airbnb_clean10.png)
+![Executive Dashboard](../Images/Airbnb_clean11.png)
+![Executive Dashboard](../Images/Airbnb_clean12.png)
+![Executive Dashboard](../Images/Airbnb_clean13.png)
 
 ---
 
