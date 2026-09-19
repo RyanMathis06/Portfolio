@@ -66,6 +66,19 @@ Finally I confirmed that all the Null values had been dropped.
 ## Cleaning Data
 
 ![Executive Dashboard](../Images/Airbnb_clean13.png)
+![Executive Dashboard](../Images/Airbnb_clean14.png)
+![Executive Dashboard](../Images/Airbnb_clean15.png)
+![Executive Dashboard](../Images/Airbnb_clean16.png)
+![Executive Dashboard](../Images/Airbnb_clean17.png)
+![Executive Dashboard](../Images/Airbnb_clean18.png)
+![Executive Dashboard](../Images/Airbnb_clean19.png)
+![Executive Dashboard](../Images/Airbnb_clean20.png)
+![Executive Dashboard](../Images/Airbnb_clean21.png)
+![Executive Dashboard](../Images/Airbnb_clean22.png)
+![Executive Dashboard](../Images/Airbnb_clean23.png)
+
+
+
 
 ---
 
